@@ -1,0 +1,13 @@
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\bin\Debug\net8.0\navigationmanagernull.deps.json
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\bin\Debug\net8.0\navigationmanagernull.dll
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\bin\Debug\net8.0\navigationmanagernull.pdb
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.csproj.AssemblyReference.cache
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.AssemblyInfoInputs.cache
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.AssemblyInfo.cs
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.csproj.CoreCompileInputs.cache
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\XamlC.stamp
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.dll
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\refint\navigationmanagernull.dll
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\navigationmanagernull.pdb
+D:\source\navigationmanagernull\navigationmanagernull\navigationmanagernull\obj\Debug\net8.0\ref\navigationmanagernull.dll
